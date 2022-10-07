@@ -1,13 +1,15 @@
 ### Hi there 👋
 
+🌱 I’m currently learning .
+
 <!--
 **6im0n/6im0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,4 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=6im0n&show_icons=true&theme=gotham" alt="6im0n" />
+
+
+
 
