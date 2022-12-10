@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📈 my github stats
+[![wakatime](https://wakatime.com/badge/user/16a07c21-419b-4d58-b7cb-3a86a68c8fce.svg)](https://wakatime.com/@16a07c21-419b-4d58-b7cb-3a86a68c8fce)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=6im0n&show_icons=true&theme=gotham&count_private=true" alt="6im0n" />
 
