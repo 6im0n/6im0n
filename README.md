@@ -3,7 +3,7 @@
 
 I'm a French student in computer science.
 
-- 🌱 I'm currently learning [Vue.js]([https://www.rust-lang.org/](https://vuejs.org/)
+- 🌱 I'm currently learning [Vue.js](https://vuejs.org/)
 - 💬 Ask me about anything [here](https://github.com/6im0n/6im0n/issues)
 
 
