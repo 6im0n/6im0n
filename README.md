@@ -37,11 +37,9 @@ I'm a French student in computer science.
 ### 📊 Stats :
 <!-- ![views counter](https://komarev.com/ghpvc/?username=Sehnryr&color=green) -->
 
-[![wakatime](https://wakatime.com/badge/user/16a07c21-419b-4d58-b7cb-3a86a68c8fce.svg)](https://wakatime.com/@16a07c21-419b-4d58-b7cb-3a86a68c8fce)
-
-![](https://komarev.com/ghpvc/?username=6im0n)
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=6im0n&show_icons=true&theme=gotham&count_private=true" alt="6im0n" />
+
+ [![wakatime](https://wakatime.com/badge/user/16a07c21-419b-4d58-b7cb-3a86a68c8fce.svg)](https://wakatime.com/@16a07c21-419b-4d58-b7cb-3a86a68c8fce)
 
 
 > **Note**:
@@ -57,6 +55,10 @@ If you really do like my work and you want to support me you can tip me there :
 [![Buy Me a Coffee](https://shields.io/badge/donate-Buy%20Me%20A%20Coffee-yellow)]()
 -->
 
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=6im0n" alt="6im0n" />
 
 
 
