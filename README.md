@@ -38,9 +38,8 @@ I'm a French student in computer science.
 <!-- ![views counter](https://komarev.com/ghpvc/?username=Sehnryr&color=green) -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=6im0n&show_icons=true&theme=gotham&count_private=true" alt="6im0n" />
+<p align="center"> <img src="https://streak-stats.demolab.com?user=6im0n&theme=dark&date_format=j%20M%5B%20Y%5D&type=png" alt="6im0n"/>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=6im0n&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
  [![wakatime](https://wakatime.com/badge/user/16a07c21-419b-4d58-b7cb-3a86a68c8fce.svg)](https://wakatime.com/@16a07c21-419b-4d58-b7cb-3a86a68c8fce)
 
 
