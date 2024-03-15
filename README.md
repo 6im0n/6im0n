@@ -3,7 +3,7 @@
 
 I'm a French student in computer science.
 
-- 🌱 I'm currently learning [Next.js](https://nextjs.org/)
+- 🌱 I'm currently learning [c++] (https://nextjs.org/)
 - 💬 Ask me about anything [here](https://github.com/6im0n/6im0n/issues)
 
 
