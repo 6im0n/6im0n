@@ -1,6 +1,6 @@
 
 # Hello there, I'm Simon 👋
-
+---
 ### About Me :
 I'm a French student in computer science.
 
@@ -14,16 +14,16 @@ I'm a French student in computer science.
 
 
 ### My skills :
-- 💻 Programming languages : Python, C, C++, TypeScript, PHP, HTML/CSS, SQL...
-- 🛠 Working in teams with Agile methodologies (Scrum, Kanban)
-- 💬 Communication skills
-- 🚩 Solving problems and troubleshooting
+- 💻 **Programming** languages : Python, C, C++, TypeScript, PHP, HTML/CSS, SQL...
+- 🛠 **Working in teams** with Agile methodologies (Scrum, Kanban)
+- 💬 **Communication** skills
+- 🚩 **Solving** problems and troubleshooting
 
 
 ### Some of my projects :
 - [🚗 Autonomous-car-lidar](https://github.com/6im0n/Autonomous-car-lidar) : Retro engineering of a LIDAR-based autonomous car using Python and C
-- [💡Raytracer](https://github.com/6im0n/Raytracer) : Raytracer (optics simulation) made in C++ from scratch
-- [🌐 My Teams Website](https://github.com/6im0n/MyTeams) : Server/Client application made in C using raw socket programming
+- [💡 Raytracer](https://github.com/6im0n/Raytracer) : Raytracer (optics simulation) made in C++ from scratch
+- [🌐 My Teams](https://github.com/6im0n/MyTeams) : Server/Client application made in C using raw socket programming
 
 
 ---
@@ -73,13 +73,11 @@ I'm a French student in computer science.
 > **Note**:
 > The badges on my profile are not placed in a specific order, which means that my level in one tool or another is not related to the order in which I placed the badges.
 
-### 📊 Stats :
+### Stats :
 <!-- ![views counter](https://komarev.com/ghpvc/?username=Sehnryr&color=green) -->
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=6im0n&show_icons=true&theme=gotham&count_private=true" alt="6im0n" />
-<p align="center"> <img src="https://streak-stats.demolab.com?user=6im0n&theme=dark&date_format=j%20M%5B%20Y%5D&type=png" alt="6im0n"/>
- 
- [![wakatime](https://wakatime.com/badge/user/16a07c21-419b-4d58-b7cb-3a86a68c8fce.svg)](https://wakatime.com/@16a07c21-419b-4d58-b7cb-3a86a68c8fce)
+
+<p align="center"> <img src="https://wakatime.com/badge/user/16a07c21-419b-4d58-b7cb-3a86a68c8fce.svg" alt="6im0n" />
 
 <!--
 ### 🍻 Support :
