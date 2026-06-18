@@ -79,7 +79,7 @@ I'm a French student in computer science.
 
 <p align="center"> <img src="https://wakatime.com/badge/user/16a07c21-419b-4d58-b7cb-3a86a68c8fce.svg" alt="6im0n" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6im0n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter"
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6im0n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook"
 
 <!--
 ### 🍻 Support :
